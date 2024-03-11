@@ -7,7 +7,6 @@ export const RESUME_DATA = {
   name: "Harsh Thavai",
   initials: "HT",
   location: "Mumbai ,India",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "A data science student with a passion for machine learning and a penchant for exploring cutting-edge AI models, including LLM. Actively seeking internships to apply", 
   contact: {
